@@ -1,0 +1,2 @@
+C:\Users\dimad\source\repos\CourseWorkOOP\Debug\CourseWorkOOP.exe
+C:\Users\dimad\source\repos\CourseWorkOOP\Debug\CourseWorkOOP.pdb
